@@ -27,5 +27,6 @@ Google fors: work in progress...
 ## FAQ
 
 Q: How can I export .csv files on cstimer.net
+
 A: At the left, below the menu items, you should see 'session' next to your session's name. Click on 'session'. Now you should see a list of all of your sessions. Choose, wich session you want to export, then click on the three dots. You should see a button that says 'export csv'
 

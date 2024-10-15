@@ -18,11 +18,12 @@ As it is in beta phase, its potential for use is small, but we will develop it f
 ## What does it require?
 
 Python 3.10+
+
 You can download it from: https://www.python.org/
 
 ## We'd love to hear your feedback and suggestions!
 
-Google fors: work in progress...
+Google forms: work in progress...
 
 ## FAQ
 

@@ -33,7 +33,7 @@ v0.2_alpha 2024.10.16
 
 ## We'd love to hear your feedback and suggestions!
 
-Google forms: work in progress...
+[Google forms](https://forms.gle/JajjEokWRGWQeieD9)
 
 ## FAQ
 

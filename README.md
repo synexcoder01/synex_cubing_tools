@@ -25,11 +25,11 @@ v0.1_alpha 2024.10.15
 - I added the ability to start a new session, or continue an existing one.
 - I added the ability to manage your sessions (delete, rename).
 
-v0.2_alpha 2024.10.15
+v0.2_alpha 2024.10.16
 - You can now see the available sessions, when you continuing a session.
 - There is an are you sure question, when you are deleting a session.
 - If you enter a time, it checks, if it is a workable data.
-- adding breaklines, to make the instructions more clear and nice.
+- Adding breaklines, to make the instructions more clear and nice.
 
 ## We'd love to hear your feedback and suggestions!
 

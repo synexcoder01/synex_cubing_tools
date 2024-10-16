@@ -4,22 +4,18 @@
 
 For people, who like twisty puzzles, and want to have a basic tool, that runs locally on their system. Because you know, where the files are stored, you can backup the manually, or move to another place very easily.
 
-## What can you do with it?
+## User manual
 
-As it is in beta phase, its potential for use is small, but we will develop it further.
+You download the latest python: https://www.python.org/
 
-- Create sessions, and save you times in them.
-- Solving in an already existing session.
-- Importing cstimer.net .csv files. (WIP)
-- View you full statistics, and times. (WIP)
-- Manage your sessions.
-- And so much more...
-
-## What does it require?
-
-Python 3.10+
-
-You can download it from: https://www.python.org/
+- Start the program, by double-clicking the .py file.
+- Follow the instructions, the program says.
+- Make sure you have an external timer, that you can use to time your solves. A phone or any other device with a stopwatch will do the job. You can download timer apps for more precise timing.
+- Make sure you write everything right, how it's written in the examples:
+    - Make sure you use '.' as a decimal point, not ','.
+    - Make sure you did not write letters or other symbols in the time.
+    - Make sure you did not leave any empty fields.
+    - Make sure you did not make any mistakes in the names of the sessions or the names of the solves.
 
 ## We'd love to hear your feedback and suggestions!
 

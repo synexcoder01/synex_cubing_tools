@@ -29,6 +29,7 @@ v0.2_alpha 2024.10.15
 - You can now see the available sessions, when you continuing a session.
 - There is an are you sure question, when you are deleting a session.
 - If you enter a time, it checks, if it is a workable data.
+- Small changes, to the texts, to make it more understandable.
 
 ## We'd love to hear your feedback and suggestions!
 

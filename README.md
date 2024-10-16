@@ -17,6 +17,14 @@ You download the latest python: https://www.python.org/
     - Make sure you did not leave any empty fields.
     - Make sure you did not make any mistakes in the names of the sessions or the names of the solves.
 
+## Changelogs
+
+v0.1_alpha 2024.10.15
+- I started the project.
+- I added the main menu.
+- I added the ability to start a new session, or continue an existing one.
+- I added the ability to manage your sessions (delete, rename).
+
 ## We'd love to hear your feedback and suggestions!
 
 Google forms: work in progress...

@@ -25,6 +25,10 @@ v0.1_alpha 2024.10.15
 - I added the ability to start a new session, or continue an existing one.
 - I added the ability to manage your sessions (delete, rename).
 
+v0.2_alpha 2024.10.15
+- You can now see the available sessions, when you continuing a session.
+- There is an are you sure question, when you are deleting a session.
+
 ## We'd love to hear your feedback and suggestions!
 
 Google forms: work in progress...

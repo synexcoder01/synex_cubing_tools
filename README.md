@@ -23,19 +23,19 @@ To download the software, click on the releases tab on the right, and download t
 
 ## Changelogs
 
-### v0.1_alpha 2024.10.15
+### v0.1_alpha 2024.10.15 [Download](https://github.com/user-attachments/files/17379010/synex_cubing_tools_v0.1_alpha.zip)
 - I started the project.
 - I added the main menu.
 - I added the ability to start a new session, or continue an existing one.
 - I added the ability to manage your sessions (delete, rename).
 
-### v0.2_alpha 2024.10.16
+### v0.2_alpha 2024.10.16 [Download](https://github.com/user-attachments/files/17401764/synex_cubing_tools_v0.2_alpha.zip)
 - You can now see the available sessions, when you continuing a session.
 - There is an are you sure question, when you are deleting a session.
 - If you enter a time, it checks, if it is a workable data.
 - Adding breaklines, to make the instructions more clear and nice.
 
-### v0.3_alpha 2024.10.17
+### v0.3_alpha 2024.10.17 [Download](https://github.com/user-attachments/files/17412444/synex_cubing_tools_v0.3_alpha.zip)
 - The idea to import csv files, is replaced, with importing cstimer.net .json files. (Still WIP)
 - I made it clear, that when you can type anything to do something, you can just press 'enter'. It is faster.
 - If you are making a new session, it does not starts it immediately. You need to choose the 'continue session' option.

@@ -6,7 +6,9 @@ For people, who like twisty puzzles, and want to have a basic tool, that runs lo
 
 ## User manual
 
-You download the latest python: https://www.python.org/
+You need python installed on your computer to use this program!
+
+Download the latest version from here, and install it on your system: https://www.python.org/
 
 - Start the program, by double-clicking the .py file.
 - Follow the instructions, the program says.

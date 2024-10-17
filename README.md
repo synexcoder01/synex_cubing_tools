@@ -21,7 +21,7 @@ If you want to time your solves, make sure you have an external timer. You can d
 
 # Changelogs
 
-You can read them in the Changelogs.md file.
+You can read them [by clicking here](https://github.com/synexcoder01/synex_cubing_tools/blob/main/CHANGELOGS.md).
 
 # We'd love to hear your feedback and suggestions!
 

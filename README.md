@@ -46,7 +46,7 @@ If you want to time your solves, make sure you have an external timer. You can d
 - I made it clear, that when you can type anything to do something, you can just press 'enter'. It is faster.
 - If you are making a new session, it does not starts it immediately. You need to choose the 'continue session' option.
 - If you create a session, it does not create a comment and P.1 segment in it because it was pointless.
-- Making the code more clear, but that does not affects the user experience, only those, who rewrites, or use my code.
+- Making the code more clear, but that does not affects the user experience, only developers (in a good way).
 
 # We'd love to hear your feedback and suggestions!
 

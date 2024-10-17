@@ -1,20 +1,26 @@
-# synex Cubing Tools
-
-## Who is this for?
+# Who is this for?
 
 For people, who like twisty puzzles, and want to have a basic tool, that runs locally on their system. Because you know, where the files are stored, you can backup the manually, or move to another place very easily.
 
-## User manual
+# User manual
+
+## How to download?
+
+- Method 1: Click on the releases tab on the right, and download the latest release, by clicking the 'Download {version number}'
+- Method 2: Scroll down to the changelogs, and click the 'Download' button, next to the version you want to download.
+
+## What you need?
 
 You need python installed on your computer to use this program!
 
 Download the latest version from here, and install it on your system: https://www.python.org/
 
-To download the software, click on the releases tab on the right, and download the latest release, or scroll down to the changelogs, and click on the latest 'Download'.
+If you want to time your solves, make sure you have an external timer. You can download applications to your phone too.
+
+## Instructions:
 
 - Start the program, by double-clicking the .py file.
 - Follow the instructions, the program says.
-- Make sure you have an external timer, that you can use to time your solves. A phone or any other device with a stopwatch will do the job. You can download timer apps for more precise timing.
 - Make sure you write everything right, how it's written in the examples:
     - Make sure you use '.' as a decimal point, not ','.
     - Make sure you did not write letters or other symbols in the time.

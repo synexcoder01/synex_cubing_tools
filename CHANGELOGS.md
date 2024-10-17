@@ -1,3 +1,5 @@
+# Changelogs:
+
 ## [v0.1_alpha 2024.10.15](https://github.com/synexcoder01/synex_cubing_tools/releases/tag/v0.1_alpha)
 - I started the project.
 - I added the main menu.

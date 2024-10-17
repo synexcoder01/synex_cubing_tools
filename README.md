@@ -6,21 +6,18 @@ For people, who like twisty puzzles, and want to have a basic tool, that runs lo
 
 ## How to download?
 
-- Method 1: Click on the releases tab on the right, and download the latest release, by clicking the 'Download {version number}'
-- Method 2: Scroll down to the changelogs, and click the version number. you will be redirected tot he release.
+- Method 1: Click on the releases tab on the right, and download the latest release, on the assets tab.
+- Method 2: Scroll down to the changelogs, and click the version number. you will be redirected to the release.
 
 ## What you need?
-
-You need python installed on your computer to use this program!
-
-Download the latest version from here, and install it on your system: https://www.python.org/
 
 If you want to time your solves, make sure you have an external timer. You can download applications to your phone too.
 
 ## Instructions:
 
-- Start the program, by double-clicking the .py file.
+- Start the program, by double-clicking the executable.
 - Follow the instructions, the program says.
+- Do NOT delete any of the folders or files, your build came with.
 
 # Changelogs
 

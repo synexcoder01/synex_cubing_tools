@@ -60,4 +60,4 @@ A: Click on export, then file, and the exported .json file should be in your dow
 
 # For the developers!!!
 
-I didn't upload any source code. If you need any source code, simply download the version you need, and it will be there, as a python file.
+I didn't upload any source code straight to the repository. If you need it, then simply download the version you need, and it will be there, as a python file.

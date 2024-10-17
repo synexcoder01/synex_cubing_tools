@@ -6,9 +6,7 @@ For people, who like twisty puzzles, and want to have a basic tool, that runs lo
 
 ## How to download?
 
-- Method 1: Click on the releases tab on the right, and download the latest release, on the assets tab.
-- Method 2: Scroll down to the changelogs, open them, and click the version number. You will be redirected to the release.
-- Method 3: [Click here to open the releases](https://github.com/synexcoder01/synex_cubing_tools/releases)
+### [Click here to access the releases](https://github.com/synexcoder01/synex_cubing_tools/releases)
 
 ## What you need?
 

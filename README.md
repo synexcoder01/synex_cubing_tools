@@ -31,13 +31,20 @@ v0.2_alpha 2024.10.16
 - If you enter a time, it checks, if it is a workable data.
 - Adding breaklines, to make the instructions more clear and nice.
 
+v0.3_alpha 2024.10.17
+- The idea to import csv files, is replaced, with importing cstimer.net .json files. (Still WIP)
+- I made it clear, that when you can type anything to do something, you can just press 'enter'. It is faster.
+- If you are making a new session, it does not starts it immediately. You need to choose the 'continue session' option.
+- If you create a session, it does not create a comment and P.1 segment in it because it was pointless.
+- Making the code more clear, but that does not affects the user experience, only those, who rewrites, or use my code.
+
 ## We'd love to hear your feedback and suggestions!
 
 [Google forms](https://forms.gle/JajjEokWRGWQeieD9)
 
 ## FAQ
 
-Q: How can I export .csv files on cstimer.net
+Q: How can I export .json files on cstimer.net
 
-A: At the left, below the menu items, you should see 'session' next to your session's name. Click on 'session'. Now you should see a list of all of your sessions. Choose, wich session you want to export, then click on the three dots. You should see a button that says 'export csv'
+A: Click on export, then file, and the exported .json file should be in your download folder.
 

@@ -10,6 +10,8 @@ You need python installed on your computer to use this program!
 
 Download the latest version from here, and install it on your system: https://www.python.org/
 
+To download the software, click on the releases tab on the right, and download the latest release.
+
 - Start the program, by double-clicking the .py file.
 - Follow the instructions, the program says.
 - Make sure you have an external timer, that you can use to time your solves. A phone or any other device with a stopwatch will do the job. You can download timer apps for more precise timing.

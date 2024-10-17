@@ -18,3 +18,6 @@
 - If you are making a new session, it does not starts it immediately. You need to choose the 'continue session' option.
 - If you create a session, it does not create a comment and P.1 segment in it because it was pointless.
 - Making the code more clear, but that does not affects the user experience, only developers (in a good way).
+
+## [v0.3.1_alpha 2024.10.17](https://github.com/synexcoder01/synex_cubing_tools/releases/tag/v0.3.1_alpha)
+- Fixed a bug, where you couln't continue a session you just created, because it couldn't understand the header of the saved file.

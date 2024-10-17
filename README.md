@@ -21,11 +21,6 @@ If you want to time your solves, make sure you have an external timer. You can d
 
 - Start the program, by double-clicking the .py file.
 - Follow the instructions, the program says.
-- Make sure you write everything right, how it's written in the examples:
-    - Make sure you use '.' as a decimal point, not ','.
-    - Make sure you did not write letters or other symbols in the time.
-    - Make sure you did not leave any empty fields.
-    - Make sure you did not make any mistakes in the names of the sessions or the names of the solves.
 
 # Changelogs
 

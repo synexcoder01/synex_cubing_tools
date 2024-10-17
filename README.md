@@ -27,37 +27,37 @@ If you want to time your solves, make sure you have an external timer. You can d
     - Make sure you did not leave any empty fields.
     - Make sure you did not make any mistakes in the names of the sessions or the names of the solves.
 
-## Changelogs
+# Changelogs
 
-### v0.1_alpha 2024.10.15 [Download](https://github.com/user-attachments/files/17379010/synex_cubing_tools_v0.1_alpha.zip)
+## v0.1_alpha 2024.10.15 [Download](https://github.com/user-attachments/files/17379010/synex_cubing_tools_v0.1_alpha.zip)
 - I started the project.
 - I added the main menu.
 - I added the ability to start a new session, or continue an existing one.
 - I added the ability to manage your sessions (delete, rename).
 
-### v0.2_alpha 2024.10.16 [Download](https://github.com/user-attachments/files/17401764/synex_cubing_tools_v0.2_alpha.zip)
+## v0.2_alpha 2024.10.16 [Download](https://github.com/user-attachments/files/17401764/synex_cubing_tools_v0.2_alpha.zip)
 - You can now see the available sessions, when you continuing a session.
 - There is an are you sure question, when you are deleting a session.
 - If you enter a time, it checks, if it is a workable data.
 - Adding breaklines, to make the instructions more clear and nice.
 
-### v0.3_alpha 2024.10.17 [Download](https://github.com/user-attachments/files/17412444/synex_cubing_tools_v0.3_alpha.zip)
+## v0.3_alpha 2024.10.17 [Download](https://github.com/user-attachments/files/17412444/synex_cubing_tools_v0.3_alpha.zip)
 - The idea to import csv files, is replaced, with importing cstimer.net .json files. (Still WIP)
 - I made it clear, that when you can type anything to do something, you can just press 'enter'. It is faster.
 - If you are making a new session, it does not starts it immediately. You need to choose the 'continue session' option.
 - If you create a session, it does not create a comment and P.1 segment in it because it was pointless.
 - Making the code more clear, but that does not affects the user experience, only those, who rewrites, or use my code.
 
-## We'd love to hear your feedback and suggestions!
+# We'd love to hear your feedback and suggestions!
 
 [Google forms](https://forms.gle/JajjEokWRGWQeieD9)
 
-## FAQ
+# FAQ
 
 Q: How can I export .json files on cstimer.net
 
 A: Click on export, then file, and the exported .json file should be in your download folder.
 
-## For the developers!!!
+# For the developers!!!
 
 I didn't upload any source code. If you need any source code, simply download the version you need, and it will be there, as a python file.

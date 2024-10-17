@@ -10,7 +10,7 @@ You need python installed on your computer to use this program!
 
 Download the latest version from here, and install it on your system: https://www.python.org/
 
-To download the software, click on the releases tab on the right, and download the latest release. [Or click here (v0.3)](https://github.com/user-attachments/files/17412444/synex_cubing_tools_v0.3_alpha.zip)
+To download the software, click on the releases tab on the right, and download the latest release.
 
 - Start the program, by double-clicking the .py file.
 - Follow the instructions, the program says.

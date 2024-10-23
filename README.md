@@ -1,3 +1,6 @@
+# Pre-release!!!
+
+Please note, that while the software is in pre-release, your saved sessions could be useless, as I update the saving system!
 # Who is this for?
 
 For people, who like twisty puzzles, and want to have a basic tool, that runs locally on their system. Because you know, where the files are stored, you can backup the manually, or move to another place very easily.

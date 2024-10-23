@@ -16,7 +16,7 @@
 - The idea to import csv files, is replaced, with importing cstimer.net .json files. (Still WIP)
 - I made it clear, that when you can type anything to do something, you can just press 'enter'. It is faster.
 - If you are making a new session, it does not starts it immediately. You need to choose the 'continue session' option.
-- If you create a session, it does not create a comment and P.1 segment in it because it was pointless.
+- If you create a session, it does not create a comment and P.1 segment in the save file, because it was pointless.
 - Making the code more clear, but that does not affects the user experience, only developers (in a good way).
 
 ## [v0.3.1_alpha 2024.10.17](https://github.com/synexcoder01/synex_cubing_tools/releases/tag/v0.3.1_alpha)

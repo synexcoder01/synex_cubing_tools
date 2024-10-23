@@ -20,4 +20,4 @@
 - Making the code more clear, but that does not affects the user experience, only developers (in a good way).
 
 ## [v0.3.1_alpha 2024.10.17](https://github.com/synexcoder01/synex_cubing_tools/releases/tag/v0.3.1_alpha)
-- Fixed a bug, where you could n't continue a session you just created, because it couldn't understand the header of the saved file.
+- Fixed a bug, where you couldn't continue a session you just created, because it couldn't understand the header of the saved file.

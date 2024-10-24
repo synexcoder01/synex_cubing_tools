@@ -1,6 +1,6 @@
 # Pre-release!!!
 
-Please note, that while the software is in pre-release, your saved sessions could be useless, as I update the saving system!
+Please note, that while the software is in pre-release, your saved sessions could not be compatible with the new version, as I update the saving system!
 
 # The idea
 

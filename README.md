@@ -8,7 +8,7 @@ For people, who like twisty puzzles, and want to have a basic tool, that runs lo
 
 # For the developers
 
-don't download the entire source code, if you need it. Go into the files, open the desired versions folder, and download the python file. Make sure, to read (this)[] before doing anything.
+don't download the entire source code, if you need it. Go into the files, open the desired versions folder, and download the python file. Make sure, to read [this]() before doing anything.
 
 # User manual
 

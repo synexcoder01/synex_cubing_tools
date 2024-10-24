@@ -1,9 +1,14 @@
 # Pre-release!!!
 
 Please note, that while the software is in pre-release, your saved sessions could be useless, as I update the saving system!
+
 # Who is this for?
 
 For people, who like twisty puzzles, and want to have a basic tool, that runs locally on their system. Because you know, where the files are stored, you can backup the manually, or move to another place very easily.
+
+# For the developers
+
+don't download the entire source code, if you need it. Go into the files, open the desired versions folder, and download the python file. Make sure, to read (this)[] before doing anything.
 
 # User manual
 
@@ -15,7 +20,7 @@ For people, who like twisty puzzles, and want to have a basic tool, that runs lo
 
 If you want to time your solves, make sure you have an external timer. You can download applications to your phone too.
 
-## Instructions:
+## Instructions
 
 - Start the program, by double-clicking the executable.
 - Follow the instructions, the program says.

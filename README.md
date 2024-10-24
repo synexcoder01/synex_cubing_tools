@@ -6,9 +6,10 @@ Please note, that while the software is in pre-release, your saved sessions coul
 
 A fully open-source software, written in python and it runs locally. You can save your times with it into csv files, which you can backup manually, wherever you want. Also if you are missing a feature, you can submit a suggestion [here](https://forms.gle/JajjEokWRGWQeieD9), or if you have the knowledge, you can complete my code with your desired feature. Then if you want to share it with me, upload it to a cloud drive like google drive or onedrive or etc., then share the link in google forms. I will apriciate it!
 
-# For the developers
+## For the developers
 
 [Click here](https://github.com/synexdev01/synex_cubing_tools/blob/main/DEV_README.md) and read the text before you do anything.
+
 # User manual
 
 ## How to download?

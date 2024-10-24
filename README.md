@@ -30,6 +30,12 @@ If you want to time your solves, make sure you have an external timer. You can d
 
 You can read them [by clicking here](https://github.com/synexcoder01/synex_cubing_tools/blob/main/CHANGELOGS.md).
 
+# Upcoming things
+
+- Import cstimer.net .json files.
+- GUI (graphical user interface).
+- Being able to create other types of puzzle sessions (2x2x2, 4x4x4, 5x5x5, etc.)
+
 # We'd love to hear your feedback and suggestions!
 
 [Google forms](https://forms.gle/JajjEokWRGWQeieD9)
